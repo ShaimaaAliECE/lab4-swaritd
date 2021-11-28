@@ -1,0 +1,22 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "3316 lab4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab4-swaritd.git"
+  },
+  "author": "Swarit Dholakia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab4-swaritd/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab4-swaritd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
